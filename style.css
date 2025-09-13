@@ -454,5 +454,6 @@ footer p {
   .project-container {
     grid-template-columns: repeat(3, 1fr);
     margin-top: 2rem;
+    gap: 20px
   }
 }
